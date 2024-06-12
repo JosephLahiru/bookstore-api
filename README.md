@@ -2,7 +2,8 @@
 
 ## Setup
 
-Clone the repository and run `npm i`.
+1. Clone the repository and run `npm i`.
+2. Now Change the name of example.env to .env.
 
 ## Running the Application
 
