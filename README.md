@@ -11,7 +11,9 @@ Run `node index.js` to start the server.
 
 ## API Endpoints
 
-First set the Authentication type to Bearer Token and set the Token to the value of the token in the .env file.
+First, set the Authentication type to Bearer Token and set the Token to the value of the token in the .env file.
+
+![image](https://github.com/JosephLahiru/bookstore-api/assets/44818405/1739656f-3578-41a0-854e-f3ad60c89892)
 
 ### GET /api/books
 
