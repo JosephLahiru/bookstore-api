@@ -14,7 +14,9 @@ Run `node index.js` to start the server.
 
 Retrieve a list of all books.
 
-Response:
+![image](https://github.com/JosephLahiru/bookstore-api/assets/44818405/55291ee9-6d78-4190-ba40-a3ba2e79a4c6)
+
+> Response:
 
 `json [ { "id": 0, "title": "New Book 0", "author": "Author 0", "year": 2000, "genre": "Fiction" } ]`
 
@@ -22,10 +24,12 @@ Response:
 
 Add a new book.
 
-Request Body:
+![image](https://github.com/JosephLahiru/bookstore-api/assets/44818405/ab873122-6065-4254-a65d-be0c1cddcee4)
+
+> Request Body:
 
 `json { "title": "New Book 1", "author": "Author 1", "year": 2024, "genre": "Non-Fiction" }`
 
-Response:
+> Response:
 
 `json { "id": 1, "title": "New Book 1", "author": "Author 1", "year": 2024, "genre": "Non-Fiction" }`
