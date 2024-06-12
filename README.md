@@ -11,6 +11,8 @@ Run `node index.js` to start the server.
 
 ## API Endpoints
 
+First set the Authentication type to Bearer Token and set the Token to the value of the token in the .env file.
+
 ### GET /api/books
 
 Retrieve a list of all books.
