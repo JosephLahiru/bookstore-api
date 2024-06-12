@@ -38,3 +38,21 @@ Add a new book.
 > Response:
 
 `json { "id": 1, "title": "New Book 1", "author": "Author 1", "year": 2024, "genre": "Non-Fiction" }`
+
+### DELETE /api/books/1
+
+To Delete a Book
+
+![image](https://github.com/JosephLahiru/bookstore-api/assets/44818405/f16347da-288d-4eb9-871f-e132d1775050)
+
+### PUT /api/books/1
+
+To Update a book
+
+![image](https://github.com/JosephLahiru/bookstore-api/assets/44818405/3815fa89-0bee-4623-bf4e-ff2a20c4f6b2)
+
+### GET /api/books/1
+
+To Get a book by ID
+
+![image](https://github.com/JosephLahiru/bookstore-api/assets/44818405/4d00da4d-85a0-46c6-83fb-13a2440c6f14)
